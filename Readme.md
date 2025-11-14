@@ -41,12 +41,10 @@
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-1. Java Development Kit (JDK)
+1. [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/)
 - Versão 21 ou superior
 
-2. Maven
-
-3. Git
+2. [Git](https://git-scm.com/install/)
 
 
 ## 🚀 Instalando <Washii>
@@ -102,3 +100,4 @@ Contruibudores e criadores do projeto!
 Este projeto foi desenvolvido pela equipe **Washii** e está licenciado sob a **WASHII PROPRIETARY LICENSE**.
 
 Para mais informações, consulte o arquivo [`LICENSE`](./LICENSE).
+
