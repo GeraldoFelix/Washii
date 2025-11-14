@@ -1,17 +1,28 @@
 # Washii
 
-<img src="Washii2.png" width="500" height="600">
+<p align="center">
+<img src="WashiiLogo.png" width="500" height="600">
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://shields.io/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-passing.svg)](readme.md)
+</p>
+
+## 📚 Sumário
+
+- [Descrição](#-descrição)
+- [Objetivo](#-objetivo)
+- [Pré-requisitos](#-pré-requisitos)
+- [Instalação](#-instalando-washii)
+- [Uso](#-usando-washii)
+- [Owners](#-owners)
+- [Licença](#-licença)
 
 
-
-## Descrição 📄
+## 📄 Descrição 
 ### Este projeto é um sistema de atendimento para lava jatos, permitindo que os clientes solicitem serviços de maneira prática enquanto o negócio acompanha, organiza e finaliza cada etapa do atendimento.
 
-### Objetivo 🎯
+### 🎯 Objetivo 
 ### Com esta aplicação, buscamos:
 
 - **Reduzir filas e tempo de espera**, permitindo que o cliente solicite o serviço de forma antecipada e acompanhe o status do atendimento.
@@ -46,7 +57,7 @@ Clone o repositório:
 
 
 ```
-git clone https://github.com/Felixjr/Washii.git
+git clone https://github.com/GeraldoFelix/Washii.git
 cd Washii
 ```
 
