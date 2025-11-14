@@ -1,6 +1,6 @@
 # Washii
 
-<img src="Washii.png" width="500" height="600">
+<img src="Washii2.png" width="500" height="600">
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://shields.io/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -90,4 +90,5 @@ Contruibudores e criadores do projeto!
 
 
 License MIT
+
 
