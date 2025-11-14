@@ -97,9 +97,8 @@ Contruibudores e criadores do projeto!
 </table>
 
 
-## 📝 Licença
+## ⚖️ Licença
 
+Este projeto foi desenvolvido pela equipe **Washii** e está licenciado sob a **WASHII PROPRIETARY LICENSE**.
 
-License MIT
-
-
+Para mais informações, consulte o arquivo [`LICENSE`](./LICENSE).
