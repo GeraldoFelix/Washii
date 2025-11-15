@@ -86,7 +86,7 @@ Contruibudores e criadores do projeto!
     </td>
     <td align="center">
       <a href="https://github.com/carlosouza-dev" title="Perfil github de Carlos Henrique">
-        <img src="https://avatars.githubusercontent.com/u/154604693?v=4" width="100px;" /><br>
+        <img src="https://avatars.githubusercontent.com/u/244040707?v=4" width="100px;" /><br>
         <sub>
           <b>Carlos Henrique</b>
         </sub>
@@ -100,6 +100,7 @@ Contruibudores e criadores do projeto!
 Este projeto foi desenvolvido pela equipe **Washii** e está licenciado sob a **WASHII PROPRIETARY LICENSE**.
 
 Para mais informações, consulte o arquivo [`LICENSE`](./LICENSE).
+
 
 
 
