@@ -55,7 +55,7 @@ Clone o repositório:
 
 
 ```
-git clone https://github.com/GeraldoFelix/Washii.git
+git clone https://github.com/WashiiApp/Washii.git
 cd Washii
 ```
 
@@ -100,4 +100,5 @@ Contruibudores e criadores do projeto!
 Este projeto foi desenvolvido pela equipe **Washii** e está licenciado sob a **WASHII PROPRIETARY LICENSE**.
 
 Para mais informações, consulte o arquivo [`LICENSE`](./LICENSE).
+
 
